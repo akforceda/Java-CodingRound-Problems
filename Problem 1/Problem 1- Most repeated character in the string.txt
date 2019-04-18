@@ -1,0 +1,20 @@
+Question:= 
+
+	You are given a string of length N. Find the most repeated character in the string.
+	If many characters appear same number of times find the smallest one.
+
+Input constraints:=
+	
+	1 <= N <= 10
+
+Input sample:=
+
+	zzrsaa
+
+Output sample:=
+
+	a
+
+Explanation:=
+	
+	Frequency of both 'a' and 'z' is 2 but, since a is lexicographically smaller than 'z' the answer is 'a'.
