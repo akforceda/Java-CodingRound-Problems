@@ -1,0 +1,20 @@
+Question:= 
+
+	You are given an arrray of length N random numbers. Display the list of repeated characters in the array.
+
+Input constraints:=
+	
+	1 <= N <= 1000
+
+Input sample:=
+
+	N = 10
+  array = 1 2 3 2 3 5 3 6 7 9 
+
+Output sample:=
+
+	2 3
+
+Explanation:=
+	
+	2 appears twice and 3 appers thrice so both are repetitive numbers in the array. Rest all have appeared only once.
