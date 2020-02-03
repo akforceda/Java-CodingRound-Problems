@@ -1,0 +1,5 @@
+This is to demonstrate how we can print or display the hashmap using lambda expressions and using the Iterator methods.
+
+Each key-value pair in a map is called an Entry.
+
+If we want to retrieve a key-value pair use method entrySet().
